@@ -1,3 +1,3 @@
 # SteamCodeGeneratorV2
 
-coding by Mehmet Kucak
+coded by Mehmet Kucak
